@@ -1,7 +1,3 @@
-Thank you for clarifying that you're only using Django. Let's revise the README for **Bloggy** focusing entirely on Django as the backend, without involving React or a frontend JavaScript framework. Below is the updated README for your Django-based Blog app.
-
----
-
 # Bloggy - A Django Blog App
 
 **Bloggy** is a blogging platform built using Django where users can share their thoughts, research, ideas, and more through blog posts. Users can create, update, and delete posts, manage their profiles, follow other users, like/dislike posts, save posts for later, and interact with other content in various ways.
